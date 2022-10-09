@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../Downloads/__MACOSX"
+	},
+	{
+		"path": "../../../../Downloads/CSS - My Site Images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "UdemyLearning"
+  }
+}
